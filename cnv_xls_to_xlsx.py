@@ -2,7 +2,7 @@ from openpyxl.utils.cell import get_column_letter
 import xlrd
 from openpyxl.workbook import Workbook
 from datetime import datetime
-
+#Farik
 def cvt_xls_to_xlsx(*args, **kw):
     """Open and convert XLS file to openpyxl.workbook.Workbook object
 
